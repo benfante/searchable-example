@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>com.your-rents.services</groupId>
 			<artifactId>your-rents-services-common-searchable</artifactId>
-			<version>0.0.1</version>
+			<version>0.0.4</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springdoc</groupId>
