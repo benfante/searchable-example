@@ -4,7 +4,7 @@ An example of using Searchable for implementing search functionalities in Spring
 
 [![Build](https://github.com/benfante/searchable-example/actions/workflows/maven.yml/badge.svg)](https://github.com/benfante/searchable-example/actions/workflows/maven.yml)
 
-Look at the [Searchable documentation](https://github.com/your-rents/your-rents-services/tree/42-searchable-documentation/your-rents-services-common-searchable) for more information.
+Look at the [Searchable documentation](https://github.com/your-rents/your-rents-services/tree/main/your-rents-services-common-searchable) for more information.
 
 ## Prerequisites
 
